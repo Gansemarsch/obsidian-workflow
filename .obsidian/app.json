@@ -37,7 +37,7 @@
   "showFrontmatter": true,
   "spellcheckLanguages": null,
   "spellcheck": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "trashOption": "local",
   "pdfExportSettings": {
     "includeName": true,
@@ -45,5 +45,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "readableLineLength": false,
+  "propertiesInDocument": "hidden"
 }

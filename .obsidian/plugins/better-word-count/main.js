@@ -5,7 +5,12 @@ var state = require('@codemirror/state');
 var view = require('@codemirror/view');
 var language = require('@codemirror/language');
 
-function noop() { }
+function noop$1() { }
+// Adapted from https://github.com/then/is-promise/blob/master/index.js
+// Distributed under MIT License https://github.com/then/is-promise/blob/master/LICENSE
+function is_promise(value) {
+    return !!value && (typeof value === 'object' || typeof value === 'function') && typeof value.then === 'function';
+}
 function run(fn) {
     return fn();
 }

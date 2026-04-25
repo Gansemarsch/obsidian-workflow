@@ -1,0 +1,8 @@
+[[5-Templates/Areas|Areas]]
+[[Daily-Notes]]
+[[Filename-Template]]
+[[Monthly-Notes]]
+[[Quarterly-Notes]]
+[[Untitled]]
+[[Weekly-Notes]]
+[[Yearly-Notes]]

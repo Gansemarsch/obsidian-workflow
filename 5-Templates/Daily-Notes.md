@@ -62,12 +62,22 @@ tR += rightAngle;
 
 
 
-## Inbox 📥
+## Daily Focus 🔥 & Goals 🎯
 
-```todoist
-name: Inbox
-filter: "#Inbox"
-```
+## Journal 📔
+
+Mood:: 
+
+An Interesting Title :
+
+Food Log:
+Breakfast| 
+Lunch| 
+Dinner| 
+
+Accomplishments | Failures | Lessons learned | Good and kind things I did | Positive and grateful for :
+
+-
 
 ## Dashboard 🗺️
 
@@ -228,18 +238,6 @@ filter: "#Inbox"
 > group by filename
 > ```
 
-## Daily Focus 🔥 & Goals 🎯
 
-
-
-## Journal 📔
-
-Mood::
-
-An Interesting Title :
-
-Accomplishments | Failures | Lessons learned | Good and kind things I did | Positive and grateful for :
-
--
 
 <% await tp.file.move("/-Daily-Notes/" + tp.file.title) %>

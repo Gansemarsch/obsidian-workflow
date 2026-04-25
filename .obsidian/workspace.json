@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "83a1c6cfa13a8ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cfda869081ab4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d5b552b9fb9516",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Home"
+            }
+          },
+          {
+            "id": "ce01c9001f70e462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/Obsidian Configuration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Configuration"
+            }
+          },
+          {
+            "id": "33476071c54c3f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resources/Recipies/Bread Maker French Bread.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bread Maker French Bread"
+            }
+          },
+          {
+            "id": "6f9ec8bac2aa47a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resources/0 _ Recipes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0 _ Recipes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c2a5e94c3793313",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c376de46b1ac6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f175e279080f999",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e5ad233a7d76bc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a56f874535361e01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c1796a6bb37507f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e808657142ab64d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "877b2755d05bb2bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "-Daily-Notes/2025-09-08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-09-08"
+            }
+          },
+          {
+            "id": "b05d18b05afbba6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "-Daily-Notes/2025-09-08.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-09-08"
+            }
+          },
+          {
+            "id": "185e95b3afda0e94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e572f4544c4b99c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a26d975156f05853",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "-Daily-Notes/2025-09-08.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-09-08"
+            }
+          },
+          {
+            "id": "600852008323c756",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "callout-manager:Insert Callout": false,
+      "cmdr:Import from Todoist": false,
+      "cmdr:Create Something": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ce01c9001f70e462",
+  "lastOpenFiles": [
+    "-Daily-Notes/2026-04-22.md",
+    "-Daily-Notes/2026-04-21.md",
+    "-Daily-Notes/2026-04-20.md",
+    "-Daily-Notes/2026-04-19.md",
+    "_Home.md",
+    "0-Inbox/Hot Dry Noodles.md",
+    "3-Resources/0 _ Recipes.md",
+    "-Daily-Notes/2026-04-14.md",
+    "4-Archives/DailyNotes/2026/2026-03/2026-03-28.md",
+    "0-Inbox/Rolodex.md",
+    "-Periodic-Notes/2026.md",
+    "-Periodic-Notes/2025.md",
+    "0-Inbox/Step By Step to Start a Church.md",
+    "2-Areas/Areas.md",
+    "3-Resources/Recipies/Bread Maker Flax Bread.md",
+    "3-Resources/Recipies/Bread Maker French Bread.md",
+    "-Daily-Notes/2026-04-13.md",
+    "-Daily-Notes/2026-04-12.md",
+    "-Daily-Notes/2026-04-11.md",
+    "-Daily-Notes/2026-04-08.md",
+    "-Daily-Notes/2026-04-09.md",
+    "-Daily-Notes/2026-04-10.md",
+    "0-Inbox/2026-05 QDP.md",
+    "-Daily-Notes/2026-04-07.md",
+    "5-Templates/Daily-Notes.md",
+    "3-Resources/Recipies/Old Recipies/Bread Machine.md",
+    "4-Archives/DailyNotes/2026/2026-04",
+    "4-Archives/DailyNotes/2026/2026-03",
+    "4-Archives/DailyNotes/2026/2026-02",
+    "4-Archives/Other Notes",
+    "4-Archives/DailyNotes/2025/2025-09",
+    "4-Archives/DailyNotes/2025/2025-08",
+    "4-Archives/DailyNotes/2025/2025-07",
+    "4-Archives/DailyNotes/2025/2025-06",
+    "4-Archives/DailyNotes/2025/2025-05",
+    "4-Archives/DailyNotes/2025/2025-04",
+    "_Media/2026-02-24_20-17-25_WeldPositioner Board Image.png",
+    "_Media/2025-06-08_11-12-48_32 Inch Bathtub.png",
+    "_Media/2025-06-08_11-12-15_30 Inch Bathtub.png",
+    "Projects/Linocut/FragileGarment.svg",
+    "_Media/2025-05-04_13-26-31_Tile Ideas.png",
+    "_Media/2025-05-01_22-44-48_Drain 5.jpg",
+    "_Media/2025-05-01_22-46-40_.jpg",
+    "_Media/2025-05-01_22-45-48_Drain2.jpg",
+    "_Media/2025-05-01_22-45-57_Drain1.jpg",
+    "_Media/2025-04-22_23-49-22_Small Bathroom.png"
+  ]
+}
